@@ -1,3 +1,4 @@
-<?php
+﻿<?php
 
-echo 'Xin chào thầy Dân'
+echo 'Xin chào thầy Dân';
+?>
